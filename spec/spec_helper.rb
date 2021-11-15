@@ -9,7 +9,7 @@ require 'capybara/rspec'
 require 'rspec'
 
 # Tell Capybara to talk to BookmarkManager
-Capybara.app = Chitter
+Capybara.app = Chitter_twitter
 
 ### the rest of the file ###
 
